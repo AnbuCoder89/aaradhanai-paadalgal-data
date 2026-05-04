@@ -1,0 +1,67 @@
+[
+  {
+    "title": "Nandri Sollamal Irukkave Mudiyathu",
+    "verses": [
+      {
+        "type": "chorus",
+        "text": "Nandri sollamal irukkave mudiyathu\nPala nanmai seitha Yesuvukku\nNandri nandri nandri endru solli naan thuthippen\nNaalthorum potruven\nNaalthorum potruven"
+      }
+    ]
+  },
+  {
+    "title": "Ummai Aaradhippen",
+    "verses": [
+      {
+        "type": "chorus",
+        "text": "Ummai aaradhhippen aandavare\nUmmai potruven Yesuve"
+      },
+      {
+        "type": "verse",
+        "number": 1,
+        "text": "En vaalvin ella naalum\nUmmai naan thuthippen\nEn idhayam muzhuvadhum\nUmmai naan nesippen"
+      }
+    ]
+  },
+  {
+    "title": "Yesuve En Nambikkai",
+    "verses": [
+      {
+        "type": "chorus",
+        "text": "Yesuve en nambikkai\nEn ratchagar neere"
+      },
+      {
+        "type": "verse",
+        "number": 1,
+        "text": "Irul soozhntha nerangalil\nOli thanthavar neere\nThunbam varum velaiyil\nThunai nindravar neere"
+      }
+    ]
+  },
+  {
+    "title": "Aandavare Ummai Thuthippen",
+    "verses": [
+      {
+        "type": "chorus",
+        "text": "Aandavare ummai thuthippen\nEn ullam muzhuvadhum potruven"
+      },
+      {
+        "type": "verse",
+        "number": 1,
+        "text": "Umadhu kirubai pothum enakku\nEn vaalkai muzhuvadhum\nUmadhu anbu soozhnthidume\nEn ullam nirainthidume"
+      }
+    ]
+  },
+  {
+    "title": "Devan Nallavar",
+    "verses": [
+      {
+        "type": "chorus",
+        "text": "Devan nallavar endrum nallavar\nAvar kirubai nilaithirukkume"
+      },
+      {
+        "type": "verse",
+        "number": 1,
+        "text": "En vaalvil seitha nanmaigal\nEnnikaiyilathavai\nAvar anbu endrum maaradhadhu\nEn ullam magizhgiradhu"
+      }
+    ]
+  }
+]
